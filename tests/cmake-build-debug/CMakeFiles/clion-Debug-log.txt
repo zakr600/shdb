@@ -1,0 +1,7 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /var/tmp/tmp.CV6PU0DvL0/tests -B /var/tmp/tmp.CV6PU0DvL0/tests/cmake-build-debug
+CMake Error at CMakeLists.txt:5 (add_headers_and_sources):
+  Unknown CMake command "add_headers_and_sources".
+
+
+-- Configuring incomplete, errors occurred!
+See also "/var/tmp/tmp.CV6PU0DvL0/tests/cmake-build-debug/CMakeFiles/CMakeOutput.log".
